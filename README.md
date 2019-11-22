@@ -18,10 +18,11 @@ Import this color settings inside your iTerm2 Profile: \
 iTerm2 color settings: https://github.com/Hendrik-Koelbel/oh-my-zsh-config/blob/master/iterm2-colors.itermcolors \
 
 ### install oh-my-zsh and Plugins
-#### oh-my-zsh
-oh-my-zsh: https://github.com/ohmyzsh/ohmyzsh
+#### Install oh-my-zsh
+https://github.com/ohmyzsh/ohmyzsh
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`
 
-#### Plugins
+#### Install plugins
 `git, zsh-autosuggestions, zsh-syntax-highlighting, artisan, composer and autoupdate`
 autoupdate for custom plugins: https://github.com/TamCore/autoupdate-oh-my-zsh-plugins \
 composer: https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/composer \
